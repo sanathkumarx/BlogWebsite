@@ -1,0 +1,5 @@
+name: blogProject_env
+channels:
+  - defaults
+prefix: C:\Users\sanat\Anaconda3\envs\blogProject_env
+
